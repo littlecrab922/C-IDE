@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/com.JPG</file>
+        <file>res/cr.JPG</file>
+        <file>res/create.JPG</file>
+        <file>res/debug.JPG</file>
+        <file>res/hide.JPG</file>
+        <file>res/open.JPG</file>
+        <file>res/open_2.JPG</file>
+        <file>res/redo.JPG</file>
+        <file>res/run.JPG</file>
+        <file>res/save.JPG</file>
+        <file>res/show.JPG</file>
+        <file>res/undo.JPG</file>
+    </qresource>
+</RCC>
